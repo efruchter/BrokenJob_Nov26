@@ -1,0 +1,6 @@
+Library/
+Temp/
+obj/
+.vs/
+Assembly-CSharp.csproj
+BurstTest.sln
